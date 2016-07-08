@@ -44,10 +44,3 @@
   path.chartLine {stroke: #14ECC8; stroke-width: 3; fill: none;}*/
   div.tooltip {position: absolute; text-align: left; padding: 4px 8px; width: auto; font-size: 10px; height: auto; background: #fff; border: 0px; pointer-events: none;}
   /*circle {fill: #fff;}*/
-
-/* Map */
-
-  .leaflet-popup-content {font-family: Merriweather;}
-  .leaflet-popup-content h2 {margin-bottom: 4px;}
-
-  img.petThumbs {height: 80px; width: 80px; border-radius: 1000px;}
